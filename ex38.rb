@@ -21,3 +21,5 @@ puts stuff[-1]
 puts stuff.pop()
 puts stuff.join(' ')
 puts stuff[3..5].join("#")
+
+puts "This is a new version, added 12/15/2018"
